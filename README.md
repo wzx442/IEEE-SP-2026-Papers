@@ -1,5 +1,6 @@
 # IEEE S&P 2026 Accepted Papers
 
+English | [中文](README_CN.md)
 > **Total papers: 199** | 
 > Categories: 12 | 
 > Generated from [IEEE S&P 2026 Proceedings](https://www.computer.org/csdl/proceedings/sp/2026/2bojuokAJK8)
