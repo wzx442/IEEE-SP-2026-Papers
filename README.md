@@ -47,6 +47,44 @@ See [output/SP2026.md](output/SP2026.md) for the full categorized paper list.
 
 </details>
 
+<details>
+<summary>IEEE S&P 2026 论文抓取与分类工具（点击展开中文说明）</summary>
+
+## IEEE S&P 2026 论文抓取与分类工具
+
+通过 IEEE CSDL GraphQL API 获取 IEEE S&P 2026 会议全部论文，使用 DeepSeek AI 进行分类，生成结构化的 Markdown 文件。
+
+无需浏览器、Playwright 或手动操作 —— 纯 API 流水线。
+
+### 环境配置
+
+```bash
+pip install -r requirements.txt
+cp .env.example .env         # 编辑 .env 填入你的 DeepSeek API Key
+```
+
+### 使用方式
+
+```bash
+python main.py                  # 完整流程（抓取 + 分类 + 输出）
+python main.py --fetch-only     # 仅从 API 抓取
+python main.py --classify-only  # 仅分类（从缓存读取）
+python main.py --output-only    # 仅生成 Markdown（从缓存读取）
+python main.py --force          # 强制重新抓取和分类
+```
+
+### 工作原理
+
+1. 调用 IEEE CSDL GraphQL API，一次请求获取全部 199 篇论文（标题、摘要、作者、DOI）
+2. 使用 DeepSeek API 将每篇论文归类到 12 个大类和具体子领域
+3. 生成 `output/SP2026.md`，按大类分组，每行格式为 `[论文标题](链接) | 子领域`
+
+### 输出
+
+完整分类论文列表见 [output/SP2026.md](output/SP2026.md)。
+
+</details>
+
 ## Table of Contents
 
 - [Cryptography and Privacy (50)](#cryptography-and-privacy)
