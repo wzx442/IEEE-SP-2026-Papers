@@ -1,0 +1,800 @@
+{
+  "classifications": {
+    "2bojvA4kaHe": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM Unlearning"
+    },
+    "2bojw7MCgyk": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Jailbreak Guardrails"
+    },
+    "2bojwciuKNW": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Jailbreak Attacks"
+    },
+    "2bojwoeMC2c": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Jailbreak Attacks"
+    },
+    "2bojwyiGVW0": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Jailbreak Robustness"
+    },
+    "2bojvFN8LhS": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Conformal Prediction Robustness"
+    },
+    "2bojvGNiUM0": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Model Poisoning"
+    },
+    "2bojw3f2bwk": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "GraphRAG Poisoning"
+    },
+    "2bojwhSNnuE": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "AI Text Detection"
+    },
+    "2bojwpTP0fC": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "DL Compiler Backdoors"
+    },
+    "2bojwDkVH0Y": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Red Teaming"
+    },
+    "2geEVXFX3i0": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Model Loading Security"
+    },
+    "2geEWTcQtMI": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Watermark Attacks"
+    },
+    "2geEX3dlC7K": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Poisoning Robustness"
+    },
+    "2geEXkaaDEA": {
+      "broad_category": "Digital Forensics and Cybercrime",
+      "sub_area": "Adversarial Jargon Detection"
+    },
+    "2bojvpDqlgc": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM web agent security"
+    },
+    "2bojvJmxSKc": {
+      "broad_category": "Systems Security",
+      "sub_area": "GPU memory attack"
+    },
+    "2bojw97v8xa": {
+      "broad_category": "Systems Security",
+      "sub_area": "GPU ASLR analysis"
+    },
+    "2bojwdheUDK": {
+      "broad_category": "Systems Security",
+      "sub_area": "DDR5 Rowhammer attacks"
+    },
+    "2geEXdAh3JS": {
+      "broad_category": "Systems Security",
+      "sub_area": "GPU Rowhammer attacks"
+    },
+    "2geEXgbdCus": {
+      "broad_category": "Systems Security",
+      "sub_area": "GPU Rowhammer page table attack"
+    },
+    "2eyvEckLpjW": {
+      "broad_category": "Systems Security",
+      "sub_area": "Microarchitectural isolation testing"
+    },
+    "2bojvhCXULm": {
+      "broad_category": "Systems Security",
+      "sub_area": "Transient execution mitigation"
+    },
+    "2bojvZVf0dy": {
+      "broad_category": "Systems Security",
+      "sub_area": "Transient execution weird computation"
+    },
+    "2bojw5EUoco": {
+      "broad_category": "Systems Security",
+      "sub_area": "Cache side-channel mitigation"
+    },
+    "2bojwxx0k5a": {
+      "broad_category": "Systems Security",
+      "sub_area": "Keystroke timing attack"
+    },
+    "2geEW8JskpO": {
+      "broad_category": "Systems Security",
+      "sub_area": "Transient execution detection"
+    },
+    "2geEWbyAPFC": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Symmetric-key cryptography design"
+    },
+    "2geEWIYr04w": {
+      "broad_category": "Systems Security",
+      "sub_area": "Transient execution simulation"
+    },
+    "2geEWNrL69y": {
+      "broad_category": "Systems Security",
+      "sub_area": "Cache coherence side channel"
+    },
+    "2bojv9k3yOk": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Security advice in non-Western contexts"
+    },
+    "2bojvgRQvaE": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Privacy practices in smart home product teams"
+    },
+    "2bojvjmxT3O": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Digital security for sex workers"
+    },
+    "2bojvrh2JPi": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Inclusive S&P for DHH communities"
+    },
+    "2geEWecEYQU": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private set intersection for deduplication"
+    },
+    "2geEWCuuZTa": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Information security awareness measurement"
+    },
+    "2bojvYoIzU4": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Reproductive privacy behavior"
+    },
+    "2bojvCC9916": {
+      "broad_category": "Web Security",
+      "sub_area": "GDPR consent violation detection"
+    },
+    "2bojw2rDYT6": {
+      "broad_category": "Systems Security",
+      "sub_area": "Consent management in mobile apps"
+    },
+    "2bojw6siAPC": {
+      "broad_category": "Systems Security",
+      "sub_area": "Mini-app template security"
+    },
+    "2geEVSWrONi": {
+      "broad_category": "Systems Security",
+      "sub_area": "VR side-channel attacks"
+    },
+    "2geEVYVrxNC": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "EMV contactless payment security"
+    },
+    "2geEW0lINfG": {
+      "broad_category": "Software Security",
+      "sub_area": "Privacy compliance for SDKs"
+    },
+    "2geEWRcNLWw": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "LLM app configuration leakage"
+    },
+    "2geEW3Coo7K": {
+      "broad_category": "Network Security",
+      "sub_area": "URL scanning privacy risks"
+    },
+    "2bojv8BM8wg": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Multi-Key Homomorphic Secret Sharing"
+    },
+    "2bojvLQotfa": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Anonymous Tokens and Non-transferability"
+    },
+    "2bojvRs75Ac": {
+      "broad_category": "Network Security",
+      "sub_area": "Post-Quantum VPN Protocols"
+    },
+    "2geEW5Y0BQQ": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Leakage-Abuse Attacks on Encrypted Databases"
+    },
+    "2geEWgwzBNC": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Post-Quantum KEM Combiners"
+    },
+    "2geEWzRzfe8": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Operations"
+    },
+    "2geEX7igd1e": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Trojan Detection"
+    },
+    "2geEX95wY0w": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Oblivious Pseudorandom Functions"
+    },
+    "2bojvt8ztLy": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Byzantine Agreement Accountability"
+    },
+    "2bojvwnxtRe": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Post-Quantum Blind Signatures"
+    },
+    "2bojvx7wuVG": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Asynchronous Distributed Key Generation"
+    },
+    "2geEVUjjSGA": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Lattice-based Threshold Blind Signatures"
+    },
+    "2geEWwnyvf2": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Threshold Post-Quantum Signatures"
+    },
+    "2geEXrLEmHK": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Threshold Anonymous Credentials"
+    },
+    "2bojwssMn5K": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Functional Adaptor Signatures"
+    },
+    "2bojva8iyPK": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Set Intersection"
+    },
+    "2bojvkPnwGs": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Information Retrieval"
+    },
+    "2bojvmhDY2Y": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Information Retrieval"
+    },
+    "2bojvoV8UY8": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Information Retrieval"
+    },
+    "2bojvKcM4G4": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Secure Inference"
+    },
+    "2bojvVVIMNi": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Information Retrieval"
+    },
+    "2bojw7b9dnO": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Oblivious RAM"
+    },
+    "2bojwg6WC9G": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Information Retrieval"
+    },
+    "2geEVW5sf9C": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "Protocol Verification"
+    },
+    "2bojvXtFcL6": {
+      "broad_category": "Systems Security",
+      "sub_area": "Transient Execution Attacks"
+    },
+    "2bojwjsroeQ": {
+      "broad_category": "Systems Security",
+      "sub_area": "Side-Channel Attacks"
+    },
+    "2bojwEIEyis": {
+      "broad_category": "Systems Security",
+      "sub_area": "RowHammer Defenses"
+    },
+    "2geEWtQ183e": {
+      "broad_category": "Systems Security",
+      "sub_area": "Keystroke Inference"
+    },
+    "2bojv7OFx16": {
+      "broad_category": "Software Security",
+      "sub_area": "Concolic Execution"
+    },
+    "2bojvdCSv4Y": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "Cloud Security Verification"
+    },
+    "2bojvIz9G6Y": {
+      "broad_category": "Systems Security",
+      "sub_area": "Speculative Execution Attacks"
+    },
+    "2geEVWWOPBK": {
+      "broad_category": "Software Security",
+      "sub_area": "LLM-based Program Analysis"
+    },
+    "2bojwp9PZba": {
+      "broad_category": "Web Security",
+      "sub_area": "Browser Process Isolation"
+    },
+    "2geEWLgE2eQ": {
+      "broad_category": "Web Security",
+      "sub_area": "API Key Detection"
+    },
+    "2bojvqyLjxe": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "Security Protocol Verification"
+    },
+    "2bojvcxTanK": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Consensus Protocol Verification"
+    },
+    "2bojvEeD93W": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Zero-Knowledge Proofs for PSPACE"
+    },
+    "2bojvT6iGpq": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Succinct ZK Proofs"
+    },
+    "2bojwa1q79S": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Pseudorandom Correlation Generators"
+    },
+    "2bojwiMqKZi": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Secure MPC with DPFs"
+    },
+    "2bojwE2mjUQ": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Private Lookup Protocols"
+    },
+    "2bojvAVYmhq": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Data Reconstruction Attacks"
+    },
+    "2bojvMC5560": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "GDPR Compliance Analysis"
+    },
+    "2bojweh7sZO": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Privacy-Preserving GBDT"
+    },
+    "2bojww51tQI": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "CCPA Compliance Study"
+    },
+    "2geEWmpk9Ww": {
+      "broad_category": "Systems Security",
+      "sub_area": "Confidential Cloud State Rollback"
+    },
+    "2geEWuSJFHW": {
+      "broad_category": "Web Security",
+      "sub_area": "Lead Marketing Data Privacy"
+    },
+    "2bojvSc66EE": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Differential Privacy Utility Evaluation"
+    },
+    "2bojwur7u9y": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Proof-of-Work Consensus"
+    },
+    "2geEWlzFagM": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "PAC Privacy Optimization"
+    },
+    "2geEWppOCoU": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Privacy Amplification Shuffling"
+    },
+    "2geEXc03QJy": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Differential Privacy Auditing"
+    },
+    "2geEXlrEk4E": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Local Differential Privacy Sparse Estimation"
+    },
+    "2bojvZ7QNAk": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Secure Federated Learning Aggregation"
+    },
+    "2bojwA4g68U": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Privacy-Preserving Smart Contracts"
+    },
+    "2geEWnrbUd2": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Distributed Secret Recovery"
+    },
+    "2geEWE9xo6A": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Gradient Inversion Attack"
+    },
+    "2geEWOrm3ny": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Gradient Inversion Attack Detection"
+    },
+    "2bojwmHGZsA": {
+      "broad_category": "Network Security",
+      "sub_area": "Telephone Spoofing Prevention"
+    },
+    "2geEXmjA6MU": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Ethereum PoS Liveness Attack"
+    },
+    "2bojwlSBc2Y": {
+      "broad_category": "Systems Security",
+      "sub_area": "Provenance Log Tamper Detection"
+    },
+    "2geEWB3mX2U": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Fuzzy Private Set Intersection"
+    },
+    "2geEWHsLn9e": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Asynchronous Secret Sharing"
+    },
+    "2geEWUwjm7e": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Registration-Based Encryption"
+    },
+    "2geEXw0Mwhy": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "LWE Secret Recovery with Side Information"
+    },
+    "2bojwnqxC0M": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Scams Targeting International Students"
+    },
+    "2geEWVyb6nK": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "SMS Scam Warning Usability"
+    },
+    "2bojvk95iiQ": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Data Access Permissions for AI Agents"
+    },
+    "2bojw0RqLSM": {
+      "broad_category": "Software Security",
+      "sub_area": "GitHub Actions Permission Analysis"
+    },
+    "2geEWhiPpUA": {
+      "broad_category": "Systems Security",
+      "sub_area": "VR Eye Gaze Side-Channel Attack"
+    },
+    "2bojw1DGzZK": {
+      "broad_category": "Network Security",
+      "sub_area": "Tor Latency Reduction with Satellite Routing"
+    },
+    "2bojw45PzIk": {
+      "broad_category": "Network Security",
+      "sub_area": "Tor Descriptor Flood Exploitation"
+    },
+    "2geEWXydOdW": {
+      "broad_category": "Software Security",
+      "sub_area": "Provenance-Based IDS Evasion via Context Distortion"
+    },
+    "2geEXxKVGQ8": {
+      "broad_category": "Software Security",
+      "sub_area": "Multi-View Provenance-Based Intrusion Detection"
+    },
+    "2geEWYwXY3K": {
+      "broad_category": "Network Security",
+      "sub_area": "5G Control-Plane Threat Detection"
+    },
+    "2bojvfdWvtu": {
+      "broad_category": "Network Security",
+      "sub_area": "BGP/RPKI security"
+    },
+    "2bojv6StLlS": {
+      "broad_category": "IoT and Cyber-Physical Systems",
+      "sub_area": "IoT fuzzing"
+    },
+    "2bojwaMfVCw": {
+      "broad_category": "Network Security",
+      "sub_area": "Datacenter network encryption"
+    },
+    "2bojwkNTstO": {
+      "broad_category": "Software Security",
+      "sub_area": "Network protocol fuzzing"
+    },
+    "2geEX4Fksmc": {
+      "broad_category": "IoT and Cyber-Physical Systems",
+      "sub_area": "Satellite security"
+    },
+    "2bojvvAItu8": {
+      "broad_category": "Network Security",
+      "sub_area": "Wireless authentication"
+    },
+    "2bojvBNkWJy": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Adversarial examples for generative models"
+    },
+    "2bojwbxnlde": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Password guessing evaluation"
+    },
+    "2bojwvmaRiw": {
+      "broad_category": "Web Security",
+      "sub_area": "Password manager security"
+    },
+    "2bojvsrqrZK": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Zero-knowledge proofs for ML"
+    },
+    "2bojvL4Zswo": {
+      "broad_category": "Software Security",
+      "sub_area": "ZK circuit fuzzing"
+    },
+    "2geEWQohaN2": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Server-aided zk-SNARKs"
+    },
+    "2geEWZFmujK": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "ZKP program verification"
+    },
+    "2geEX0qLv2w": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Secure multi-party computation"
+    },
+    "2geEX8g9zsQ": {
+      "broad_category": "Formal Methods and Verification",
+      "sub_area": "Protocol verification"
+    },
+    "2geEXcWxdwQ": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Fully Homomorphic Encryption"
+    },
+    "2geEXyIfR1C": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Proactive Secret Sharing"
+    },
+    "2bojwrCyb9S": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Verifiable Computation"
+    },
+    "2bojvPbTfkk": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Local Differential Privacy"
+    },
+    "2bojw8o5jIQ": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Asynchronous MPC"
+    },
+    "2bojwFtLXTa": {
+      "broad_category": "Software Security",
+      "sub_area": "Cross-language Security Analysis"
+    },
+    "2bojv5U1cE8": {
+      "broad_category": "IoT and Cyber-Physical Systems",
+      "sub_area": "Firmware Vulnerability Detection"
+    },
+    "2bojvQCauMo": {
+      "broad_category": "Software Security",
+      "sub_area": "API Usage Pattern Mining"
+    },
+    "2bojw4TdMly": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Safety Alignment Transfer"
+    },
+    "2bojwfhzdC0": {
+      "broad_category": "Software Security",
+      "sub_area": "Memory Safety Hardening"
+    },
+    "2geEWqdM1ig": {
+      "broad_category": "IoT and Cyber-Physical Systems",
+      "sub_area": "Access Control Vulnerability Detection"
+    },
+    "2geEXhYLYBO": {
+      "broad_category": "Systems Security",
+      "sub_area": "Memory Tagging Extension"
+    },
+    "2bojvlAdl96": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "FHE Compilation"
+    },
+    "2bojwzlptAI": {
+      "broad_category": "Software Security",
+      "sub_area": "Python Class Pollution"
+    },
+    "2bojwAJpW0g": {
+      "broad_category": "Software Security",
+      "sub_area": "LLM-guided Concolic Execution"
+    },
+    "2geEWWhAVc4": {
+      "broad_category": "Systems Security",
+      "sub_area": "Hardware Bug Detection"
+    },
+    "2geEWkeMihW": {
+      "broad_category": "Software Security",
+      "sub_area": "Binary Data Structure Recovery"
+    },
+    "2bojvn4Kzy8": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Passkey Adoption and Usage"
+    },
+    "2bojvo3d8fS": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Anonymity Usability"
+    },
+    "2bojvPT2h68": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "MFA Usability"
+    },
+    "2bojwh1qN2w": {
+      "broad_category": "IoT and Cyber-Physical Systems",
+      "sub_area": "WiFi Biometric Authentication"
+    },
+    "2geEX13W8Zq": {
+      "broad_category": "Network Security",
+      "sub_area": "Bluetooth Pairing Security"
+    },
+    "2bojvesfTCE": {
+      "broad_category": "Systems Security",
+      "sub_area": "SMM Fuzzing"
+    },
+    "2geEW7Xu7qU": {
+      "broad_category": "Software Security",
+      "sub_area": "Java Fuzzing"
+    },
+    "2geEX2zBLUI": {
+      "broad_category": "Software Security",
+      "sub_area": "CLI Fuzzing"
+    },
+    "2geEXbhdebm": {
+      "broad_category": "Software Security",
+      "sub_area": "Java Vulnerability Discovery"
+    },
+    "2bojvU1DEGs": {
+      "broad_category": "Software Security",
+      "sub_area": "Rust Memory Safety Fuzzing"
+    },
+    "2bojwqQzYaY": {
+      "broad_category": "Network Security",
+      "sub_area": "Censorship Measurement"
+    },
+    "2geEW9Vg2eA": {
+      "broad_category": "Blockchain and Distributed Systems",
+      "sub_area": "Incentive Mechanism Design"
+    },
+    "2geEXePtX7q": {
+      "broad_category": "Network Security",
+      "sub_area": "Censorship Detection"
+    },
+    "2bojvHDfvzO": {
+      "broad_category": "Digital Forensics and Cybercrime",
+      "sub_area": "Promotion Abuse Fraud Detection"
+    },
+    "2geEX6w0oUg": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Preprint Source Code Privacy"
+    },
+    "2bojvtT7H68": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Face Deblurring Attack"
+    },
+    "2bojvg0cjAs": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Auditing"
+    },
+    "2geEWfw7Rbq": {
+      "broad_category": "Systems Security",
+      "sub_area": "Microarchitecture Reverse Engineering"
+    },
+    "2geEWr9XMXu": {
+      "broad_category": "Software Security",
+      "sub_area": "Firmware Fuzzing"
+    },
+    "2geEWyKAICs": {
+      "broad_category": "Software Security",
+      "sub_area": "ReDoS Attack Generation"
+    },
+    "2geEWSgn6Zq": {
+      "broad_category": "Systems Security",
+      "sub_area": "Kernel Heap Exploitation"
+    },
+    "2geEWDpPYac": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Vulnerability Disclosure Measurement"
+    },
+    "2bpU8UYzvAA": {
+      "broad_category": "Web Security",
+      "sub_area": "OAuth/OpenID Connect Attacks"
+    },
+    "2bojvixauw8": {
+      "broad_category": "Web Security",
+      "sub_area": "Web Anomaly Detection"
+    },
+    "2bojvxQEIBW": {
+      "broad_category": "Software Security",
+      "sub_area": "Automated Patch Backporting"
+    },
+    "2bojvzkUlSU": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Vulnerability Notification Response"
+    },
+    "2geEWsvZ3sA": {
+      "broad_category": "Software Security",
+      "sub_area": "Directed Fuzzing"
+    },
+    "2geEXp90daM": {
+      "broad_category": "Web Security",
+      "sub_area": "Automated Vulnerability Repair"
+    },
+    "2bojvOwadcQ": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Retrieval-Augmented Generation Poisoning"
+    },
+    "2bojvWHYAUg": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Prompt Injection Attacks"
+    },
+    "2bojwwJkwjS": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Prompt Injection Localization"
+    },
+    "2bojwBAuVkk": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "SOC Analyst LLM Usage"
+    },
+    "2bojvbCyc6I": {
+      "broad_category": "Systems Security",
+      "sub_area": "TEE Encrypted Database Attacks"
+    },
+    "2bojvyymWDS": {
+      "broad_category": "Systems Security",
+      "sub_area": "SGX Interrupt Attacks"
+    },
+    "2bojvNAxDNK": {
+      "broad_category": "Systems Security",
+      "sub_area": "Memory Bus Attacks"
+    },
+    "2bojwtctN28": {
+      "broad_category": "Systems Security",
+      "sub_area": "Memory Bus Interposition"
+    },
+    "2geEVVco3V6": {
+      "broad_category": "Systems Security",
+      "sub_area": "Electromagnetic Side Channel"
+    },
+    "2geEWd7XfhK": {
+      "broad_category": "Systems Security",
+      "sub_area": "Trusted Application Emulation"
+    },
+    "2bojvF4i8JG": {
+      "broad_category": "LLMs and AI Safety",
+      "sub_area": "Dark Patterns in Web Agents"
+    },
+    "2geEW1uY6TS": {
+      "broad_category": "Web Security",
+      "sub_area": "OAuth Account Linking"
+    },
+    "2geEW4KvjfG": {
+      "broad_category": "Usable Security and Privacy",
+      "sub_area": "Dark Patterns in Generative Design"
+    },
+    "2geEX9VL9Wo": {
+      "broad_category": "Web Security",
+      "sub_area": "Web Tracker Detection"
+    },
+    "2geEXjePFny": {
+      "broad_category": "Cryptography and Privacy",
+      "sub_area": "Eye Movement Side Channel"
+    },
+    "2geEWGkW39m": {
+      "broad_category": "Machine Learning and Security",
+      "sub_area": "Physical Adversarial Pointcloud Attacks"
+    },
+    "2geEWMjEb1C": {
+      "broad_category": "Software Security",
+      "sub_area": "Control-Flow Integrity Defenses"
+    },
+    "2geEX5n2Go8": {
+      "broad_category": "Software Security",
+      "sub_area": "Intel CET Bypass"
+    },
+    "2geEWxwNOTe": {
+      "broad_category": "Web Security",
+      "sub_area": "Host Name Poisoning Measurement"
+    }
+  }
+}
